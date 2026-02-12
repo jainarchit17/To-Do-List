@@ -6,3 +6,12 @@
 body{
     background-color: cyan ;
 }
+header{
+    display: flex;
+    justify-content: center;
+}
+#heading{
+    margin: 1rem;
+    padding: 0.5rem;
+    border: 0.25rem dashed black;
+}
