@@ -1,0 +1,3 @@
+@tailwind base;       /* <--- Yeh line check kar! */
+@tailwind components;
+@tailwind utilities;
